@@ -1,4 +1,4 @@
-# 特定域名路由列表
+# 特定路由域名列表
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
