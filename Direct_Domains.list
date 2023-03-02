@@ -12,3 +12,7 @@ DOMAIN-SUFFIX,paperyy.com
 
 # 华为云
 DOMAIN-SUFFIX,myhuaweicloud.com
+
+# 快手
+DOMAIN-SUFFIX,kskwai.com
+DOMAIN-SUFFIX,ksapisrv.com
