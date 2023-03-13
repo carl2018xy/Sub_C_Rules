@@ -2,7 +2,3 @@
 
 # OpenAI
 DOMAIN-SUFFIX,openai.com
-
-# New Bing
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,login.microsoftonline.com
