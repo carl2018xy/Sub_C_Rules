@@ -10,18 +10,5 @@ DOMAIN-SUFFIX,123pan.com
 # PaperYY
 DOMAIN-SUFFIX,paperyy.com
 
-# 华为云
-DOMAIN-SUFFIX,myhuaweicloud.com
-
-# 快手
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,kskwai.com
-DOMAIN-SUFFIX,ksapisrv.com
-DOMAIN-SUFFIX,kwimgs.com
-
-# 蓝奏云网盘
-DOMAIN-SUFFIX,lanzoue.com
-DOMAIN-SUFFIX,woozooo.com
-
 # 其他
 DOMAIN-SUFFIX,nyrsksw.com
