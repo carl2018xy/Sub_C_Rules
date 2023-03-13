@@ -18,7 +18,3 @@ DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kskwai.com
 DOMAIN-SUFFIX,ksapisrv.com
 DOMAIN-SUFFIX,kwimgs.com
-
-# 微软系统语音输入服务
-DOMAIN-SUFFIX,displaycatalog.mp.microsoft.com
-DOMAIN-SUFFIX,licensing.mp.microsoft.com
