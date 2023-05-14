@@ -1,9 +1,9 @@
 # 各地人事考试网
 DOMAIN-SUFFIX,pzhl.net,DIRECT
 DOMAIN-SUFFIX,hnrsks.com,DIRECT
-DOMAIN-SUFFIX,nyrsksw.com,DIRECT
 DOMAIN-SUFFIX,shiyebian.net,DIRECT
 DOMAIN-KEYWORD,nyrsj,DIRECT
+DOMAIN-KEYWORD,nyrsksw,DIRECT
 # 阿里云盘
 DOMAIN-KEYWORD,aliyundrive,DIRECT
 # 华为
